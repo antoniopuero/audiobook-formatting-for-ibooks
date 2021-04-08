@@ -29,8 +29,6 @@ async function* getFiles(dir) {
   }
 }
 
-console.log(options)
-
 const directoryPath = path.join(process.cwd(), options.input);
 
 
