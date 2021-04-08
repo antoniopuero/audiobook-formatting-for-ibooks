@@ -1,0 +1,16 @@
+{
+  "name": "audiobook-formatting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audio-formatter.js",
+  "scripts": {
+    "test": ""
+  },
+  "bin": "./.bin/audiobook-formatting.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "ffmetadata": "^1.6.0"
+  }
+}
