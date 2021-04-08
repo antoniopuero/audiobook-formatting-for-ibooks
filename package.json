@@ -1,10 +1,14 @@
 {
   "name": "audiobook-formatting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "audio-formatter.js",
   "scripts": {
     "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniopuero/audiobook-formatting-for-ibooks.git"
   },
   "bin": "./.bin/audiobook-formatting.js",
   "author": "",
